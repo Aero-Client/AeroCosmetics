@@ -1,0 +1,13 @@
+{  
+   "uuid":"4f979699-1962-48a8-b051-7661e154f675", 
+   "username":null,  
+   "cosmetics":{  
+      "aero_purple":{  
+         "name":"aero_purple",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"aero_purple"  
+      }  
+   }  
+}  
