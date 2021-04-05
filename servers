@@ -2,6 +2,9 @@
     "servers":{
       "Certix Network":{
         "address":"certix.cc"
+},
+      "Kira Network":{
+        "address":"kirah.cf"
         }
     }
 }
