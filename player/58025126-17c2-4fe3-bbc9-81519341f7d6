@@ -180,7 +180,7 @@
       "owner_wings":{ 
          "name":"owner_wings",
          "type":"dragon_wings",
-         "scale":0.75,
+         "scale":0.16,
          "active":true,
          "resourceLocation":"owner_wings"
 },
