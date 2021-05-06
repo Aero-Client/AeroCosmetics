@@ -132,7 +132,7 @@
          "name":"purple_wings",
          "type":"dragon_wings",
          "scale":0.13,
-         "active":true,
+         "active":false,
          "resourceLocation":"purple_wings"
 },
       "red_wings":{ 
@@ -174,7 +174,7 @@
          "name":"purple_halloween",
          "type":"dragon_wings",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"purple_halloween"
 },
       "ac":{ 
@@ -184,12 +184,12 @@
          "active":false,
          "resourceLocation":"ac"
 },
-      "twitch":{ 
-         "name":"twitch",
+      "blue_c":{ 
+         "name":"blue_c",
          "type":"cape",
          "scale":0.16,
-         "active":true,
-         "resourceLocation":"twitch"
+         "active":false,
+         "resourceLocation":"blue_c"
 },
       "aero_galaxy_2":{ 
          "name":"aero_galaxy_2",
