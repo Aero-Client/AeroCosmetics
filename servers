@@ -1,8 +1,5 @@
 {
     "servers":{
-      "Kira Network":{
-        "address":"kirah.cf"
-},
       "Hygon Network":{
         "address":"hygon.org"
         }
