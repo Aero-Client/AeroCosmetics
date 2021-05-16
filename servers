@@ -1,7 +1,7 @@
 {
     "servers":{
-      "Hygon Network":{
-        "address":"hygon.org"
+      "CavePvP Network":{
+        "address":"cavepvp.org"
         }
     }
 }
