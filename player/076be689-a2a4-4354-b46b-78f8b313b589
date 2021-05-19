@@ -174,8 +174,22 @@
          "name":"purple_halloween",
          "type":"dragon_wings",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"purple_halloween"
+},
+      "owner_wings":{ 
+         "name":"owner_wings",
+         "type":"dragon_wings",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"owner_wings"
+},
+      "owner":{ 
+         "name":"owner",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"owner"
 },
       "ac":{ 
          "name":"ac",
@@ -314,7 +328,7 @@
          "name":"fox",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"fox"
 },
       "tiger":{ 
