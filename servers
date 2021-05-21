@@ -1,7 +1,7 @@
 {
     "servers":{
-      "CavePvP Network":{
-        "address":"cavepvp.org"
+      "Aero Network":{
+        "address":"play.aeroclient.net"
         }
     }
 }
