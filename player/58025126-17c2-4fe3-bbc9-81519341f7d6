@@ -65,7 +65,7 @@
          "active":true,
          "resourceLocation":"aero_client_cloak_1"
 },
-      "Aero_Client_Cloake_2":{ 
+      "Aero_Client_Cloak_2":{ 
          "name":"aero_client_cloak_2",
          "type":"cape",
          "scale":0.16,
