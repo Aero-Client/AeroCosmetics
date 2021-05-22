@@ -79,13 +79,6 @@
          "active":false,
          "resourceLocation":"aero_client_cape_3"
 },
-      "mr_criss":{ 
-         "name":"mr_criss",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"mr_criss"
-},
       "black_legacy":{ 
          "name":"black_legacy",
          "type":"cape",
@@ -127,20 +120,6 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"twitch"
-},
-      "france":{ 
-         "name":"france",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"france"
-},
-      "russia":{ 
-         "name":"russia",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"russia"
 },
       "heart":{ 
          "name":"heart",
