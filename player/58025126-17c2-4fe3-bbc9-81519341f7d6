@@ -2,96 +2,96 @@
    "uuid":"58025126-17c2-4fe3-bbc9-81519341f7d6",
    "username":null,
    "cosmetics":{ 
-      "black_wings":{ 
-         "name":"black_wings",
+      "black":{ 
+         "name":"black",
          "type":"dragon_wings",
          "scale":0.16,
          "active":true,
          "resourceLocation":"black"
 },
-      "blue_wings":{ 
-         "name":"blue_wings",
+      "blue":{ 
+         "name":"blue",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
          "resourceLocation":"blue"
 },
-      "dark_blue_wings":{ 
-         "name":"dark_blue_wings",
+      "dark_blue":{ 
+         "name":"dark_blue",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
          "resourceLocation":"dark_blue"
 },
-      "green_wings":{ 
-         "name":"green_wings",
+      "green":{ 
+         "name":"green",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
          "resourceLocation":"green"
 },
-      "purple_wings":{ 
-         "name":"purple_wings",
+      "purple":{ 
+         "name":"purple",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
          "resourceLocation":"purple"
 },
-      "red_wings":{ 
-         "name":"red_wings",
+      "red":{ 
+         "name":"red",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
          "resourceLocation":"red"
 },
-      "turquoise_wings":{ 
-         "name":"turquoise_wings",
+      "turquoise":{ 
+         "name":"turquoise",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
          "resourceLocation":"turquoise"
 },
-      "yellow_wings":{ 
-         "name":"yellow_wings",
+      "yellow":{ 
+         "name":"yellow",
          "type":"dragon_wings",
          "scale":0.13,
          "active":false,
          "resourceLocation":"yellow"
 },
-      "Aero_Client_Cape_1":{ 
-         "name":"aero_client_cape_1",
+      "Aero_Client_Cloak_1":{ 
+         "name":"aero_client_cloak_1",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"aero_client_cape_1"
+         "resourceLocation":"aero_client_cloak_1"
 },
-      "Aero_Client_Cape_2":{ 
-         "name":"aero_client_cape_2",
+      "Aero_Client_Cloake_2":{ 
+         "name":"aero_client_cloak_2",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"aero_client_cape_2"
+         "resourceLocation":"aero_client_cloake_2"
 },
-      "Aero_Client_Cape_3":{ 
-         "name":"aero_client_cape_3",
+      "Aero_Client_Cloak_3":{ 
+         "name":"aero_client_cloak_3",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"aero_client_cape_3"
+         "resourceLocation":"aero_client_cloak_3"
 },
-      "black_legacy":{ 
-         "name":"black_legacy",
+      "Aero_Client_Cloak_4":{ 
+         "name":"aero_client_cloak_4",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"black_legacy"
+         "resourceLocation":"aero_client_cloak_4"
 },
-      "white_legacy":{ 
-         "name":"white_legacy",
+      "Aero_Client_Cloak_5":{ 
+         "name":"aero_client_cloak_5",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"white_legacy"
+         "resourceLocation":"aero_client_cloak_5"
 },
       "staff":{ 
          "name":"staff",
