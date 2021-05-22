@@ -62,7 +62,7 @@
          "name":"aero_client_cloak_1",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"aero_client_cloak_1"
 },
       "Aero_Client_Cloak_2":{ 
@@ -76,7 +76,7 @@
          "name":"aero_client_cloak_3",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"aero_client_cloak_3"
 },
       "Aero_Client_Cloak_4":{ 
