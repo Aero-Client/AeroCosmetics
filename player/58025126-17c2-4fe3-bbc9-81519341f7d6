@@ -58,21 +58,21 @@
          "active":false,
          "resourceLocation":"yellow"
 },
-      "aero_client_cape_1":{ 
+      "Aero_Client_Cape_1":{ 
          "name":"aero_client_cape_1",
          "type":"cape",
          "scale":0.16,
          "active":true,
          "resourceLocation":"aero_client_cape_1"
 },
-      "aero_client_cape_2":{ 
+      "Aero_Client_Cape_2":{ 
          "name":"aero_client_cape_2",
          "type":"cape",
          "scale":0.16,
          "active":false,
          "resourceLocation":"aero_client_cape_2"
 },
-      "aero_client_cape_3":{ 
+      "Aero_Client_Cape_3":{ 
          "name":"aero_client_cape_3",
          "type":"cape",
          "scale":0.16,
