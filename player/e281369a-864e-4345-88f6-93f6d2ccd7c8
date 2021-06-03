@@ -1,0 +1,27 @@
+{  
+   "uuid":"e281369a-864e-4345-88f6-93f6d2ccd7c8", 
+   "username":null,  
+   "cosmetics":{  
+      "red_wings":{  
+         "name":"red_wings",  
+         "type":"dragon_wings",  
+         "scale":0.13,  
+         "active":true,  
+         "resourceLocation":"red_wings"  
+},  
+      "youtube":{  
+         "name":"youtube",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":true,  
+         "resourceLocation":"youtube"  
+},  
+      "legacy_youtube":{  
+         "name":"legacy_youtube",  
+         "type":"cape",  
+         "scale":0.16,  
+         "active":false,  
+         "resourceLocation":"legacy_youtube"  
+      }  
+   }  
+}  
